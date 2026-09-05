@@ -86,7 +86,7 @@ contract-risk-nlp/
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/contract-risk-nlp.git
+git clone https://github.com/16nithin/contract-risk-nlp.git
 cd contract-risk-nlp
 pip install -r requirements.txt
 python -m spacy download en_core_web_sm
